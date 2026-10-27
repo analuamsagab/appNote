@@ -7,8 +7,8 @@ declare(strict_types=1);
  * dari database.sql sebelum membuka aplikasi.
  */
 $dbHost = '127.0.0.1';
-$dbUser = 'catatan_user';
-$dbPass = 'catatan_app_2026';
+$dbUser = 'crudSimple';
+$dbPass = '123';
 $dbName = 'catatan_app';
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
